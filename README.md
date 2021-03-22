@@ -1,1 +1,1 @@
-# SmartPills-Android
+# SmartPills-RaspyServer
